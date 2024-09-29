@@ -27,5 +27,5 @@ O design segue a interface de login atual do Instagram:
 ## 🚀 Como Rodar o Projeto
 
 1. Clone este repositório:
-   ```bash
-  https://github.com/DevsAlves/Login-do-Insta.git
+   ```bash https://github.com/DevsAlves/Login-do-Insta.git
+  
