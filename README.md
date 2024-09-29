@@ -1,6 +1,6 @@
 # Instagram Login Page Clone
 
-Este projeto é uma réplica da página de login do Instagram, desenvolvida como parte de um exercício prático em HTML e CSS 
+Este projeto é uma réplica da página de login do Instagram, desenvolvida como parte de um exercício prático em HTML e CSS , do curso de Front-end do Mateus Batisti
 
 ## 🖥️ Tecnologias Utilizadas
 
